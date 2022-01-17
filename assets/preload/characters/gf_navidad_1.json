@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				890
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				60,
+				890
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "incendio",
+			"loop": true,
+			"name": "GF Incendio"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_Navidad_1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

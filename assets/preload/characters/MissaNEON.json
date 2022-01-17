@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-71
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MissaIdle"
+		},
+		{
+			"offsets": [
+				34,
+				-79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Missa DERECHA"
+		},
+		{
+			"offsets": [
+				-1,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "MissaIdle"
+		},
+		{
+			"offsets": [
+				-14,
+				-56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Missa ARRIBA"
+		},
+		{
+			"offsets": [
+				-24,
+				-67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Missa IZQUIERDA"
+		},
+		{
+			"offsets": [
+				-13,
+				-172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Missa ABAJO"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MissaNEON",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "missaNEON",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		140,
+		255
+	],
+	"camera_position": [
+		-60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				253,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MissaPensandoLEFT"
+		},
+		{
+			"offsets": [
+				29,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MissaPensandoRIGHT"
+		},
+		{
+			"offsets": [
+				195,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MissaPensandoDOWN"
+		},
+		{
+			"offsets": [
+				280,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MissaPensandoUP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				109,
+				-70
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "MissaPensandoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-69
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MissaPensandoIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mago_Brujo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "magobrujo",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		20,
+		40
+	],
+	"camera_position": [
+		-60,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
