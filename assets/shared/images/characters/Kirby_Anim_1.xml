@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kirby_Anim_1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KirbyAnim10000" x="10" y="10" width="308" height="322" frameX="-133" frameY="0" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10001" x="10" y="10" width="308" height="322" frameX="-133" frameY="0" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10002" x="328" y="10" width="364" height="300" frameX="-81" frameY="-22" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10003" x="328" y="10" width="364" height="300" frameX="-81" frameY="-22" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10004" x="702" y="10" width="446" height="230" frameX="0" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10005" x="702" y="10" width="446" height="230" frameX="0" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10006" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10007" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10008" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10009" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10010" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10011" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10012" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10013" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10014" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10015" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10016" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10017" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10018" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10019" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10020" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10021" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10022" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10023" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10024" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10025" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10026" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10027" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10028" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10029" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10030" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10031" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10032" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10033" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10034" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10035" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10036" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10037" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10038" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10039" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10040" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10041" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10042" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10043" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10044" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim10045" x="1158" y="10" width="442" height="238" frameX="-3" frameY="-99" frameWidth="446" frameHeight="337"/>
+	<SubTexture name="KirbyAnim20000" x="1610" y="10" width="192" height="373" frameX="0" frameY="-16" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20001" x="1610" y="10" width="192" height="373" frameX="0" frameY="-16" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20002" x="1812" y="10" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20003" x="1812" y="10" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20004" x="10" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20005" x="10" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20006" x="204" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20007" x="204" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20008" x="398" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20009" x="398" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20010" x="592" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20011" x="592" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20012" x="786" y="403" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20013" x="786" y="403" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20014" x="980" y="403" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20015" x="980" y="403" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20016" x="1174" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20017" x="1174" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20018" x="1368" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20019" x="1368" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20020" x="1562" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20021" x="1562" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20022" x="1756" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20023" x="1756" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20024" x="10" y="802" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20025" x="10" y="802" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20026" x="204" y="802" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20027" x="204" y="802" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20028" x="10" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20029" x="10" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20030" x="204" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20031" x="204" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20032" x="398" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20033" x="398" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20034" x="592" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20035" x="592" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20036" x="786" y="403" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20037" x="786" y="403" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20038" x="980" y="403" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20039" x="980" y="403" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20040" x="1174" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20041" x="1174" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20042" x="1368" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20043" x="1368" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20044" x="1562" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20045" x="1562" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20046" x="1756" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20047" x="1756" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20048" x="10" y="802" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20049" x="10" y="802" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20050" x="204" y="802" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20051" x="204" y="802" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20052" x="10" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20053" x="10" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20054" x="204" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20055" x="204" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20056" x="398" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20057" x="398" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20058" x="592" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20059" x="592" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20060" x="786" y="403" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20061" x="786" y="403" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20062" x="980" y="403" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20063" x="980" y="403" width="184" height="383" frameX="-4" frameY="-6" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20064" x="1174" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20065" x="1174" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20066" x="1368" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20067" x="1368" y="403" width="184" height="389" frameX="-4" frameY="0" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20068" x="1562" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20069" x="1562" y="403" width="184" height="385" frameX="-4" frameY="-4" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20070" x="1756" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20071" x="1756" y="403" width="184" height="388" frameX="-4" frameY="-1" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim20072" x="10" y="802" width="184" height="377" frameX="-4" frameY="-12" frameWidth="192" frameHeight="389"/>
+	<SubTexture name="KirbyAnim30000" x="398" y="802" width="214" height="290" frameX="-2" frameY="0" frameWidth="220" frameHeight="290"/>
+	<SubTexture name="KirbyAnim30001" x="398" y="802" width="214" height="290" frameX="-2" frameY="0" frameWidth="220" frameHeight="290"/>
+	<SubTexture name="KirbyAnim30002" x="622" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30003" x="622" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30004" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30005" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30006" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30007" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30008" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30009" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30010" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30011" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30012" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30013" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30014" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30015" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30016" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30017" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30018" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30019" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30020" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30021" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30022" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30023" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30024" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30025" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30026" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30027" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30028" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30029" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30030" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30031" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30032" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30033" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30034" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30035" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30036" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30037" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30038" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30039" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30040" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30041" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30042" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30043" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30044" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30045" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30046" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30047" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30048" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30049" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30050" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30051" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30052" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim30053" x="852" y="802" width="220" height="290"/>
+	<SubTexture name="KirbyAnim40000" x="1082" y="802" width="222" height="229" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40001" x="1082" y="802" width="222" height="229" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40002" x="1314" y="802" width="277" height="223" frameX="-4" frameY="-6" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40003" x="1314" y="802" width="277" height="223" frameX="-4" frameY="-6" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40004" x="1601" y="802" width="286" height="223" frameX="-40" frameY="-6" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40005" x="1601" y="802" width="286" height="223" frameX="-40" frameY="-6" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40006" x="10" y="1195" width="311" height="223" frameX="0" frameY="-6" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40007" x="10" y="1195" width="311" height="223" frameX="0" frameY="-6" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40008" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40009" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40010" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40011" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40012" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40013" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40014" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40015" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40016" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40017" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40018" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40019" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40020" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40021" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40022" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40023" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40024" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40025" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40026" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40027" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40028" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40029" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40030" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40031" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40032" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40033" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40034" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40035" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40036" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40037" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40038" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40039" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40040" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40041" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40042" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40043" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40044" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40045" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40046" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40047" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40048" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40049" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40050" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40051" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40052" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40053" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40054" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40055" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40056" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40057" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40058" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40059" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40060" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40061" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40062" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40063" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40064" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyAnim40065" x="331" y="1195" width="222" height="246" frameX="-51" frameY="0" frameWidth="326" frameHeight="246"/>
+	<SubTexture name="KirbyIdle0000" x="563" y="1195" width="253" height="179" frameX="-12" frameY="-6" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0001" x="563" y="1195" width="253" height="179" frameX="-12" frameY="-6" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0002" x="826" y="1195" width="257" height="181" frameX="-7" frameY="-4" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0003" x="826" y="1195" width="257" height="181" frameX="-7" frameY="-4" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0004" x="1093" y="1195" width="258" height="185" frameX="0" frameY="0" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0005" x="1093" y="1195" width="258" height="185" frameX="0" frameY="0" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0006" x="826" y="1195" width="257" height="181" frameX="-7" frameY="-4" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0007" x="826" y="1195" width="257" height="181" frameX="-7" frameY="-4" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0008" x="563" y="1195" width="253" height="179" frameX="-12" frameY="-6" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0009" x="563" y="1195" width="253" height="179" frameX="-12" frameY="-6" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0010" x="1361" y="1195" width="254" height="182" frameX="-15" frameY="-3" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0011" x="1361" y="1195" width="254" height="182" frameX="-15" frameY="-3" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0012" x="1361" y="1195" width="254" height="182" frameX="-15" frameY="-3" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0013" x="1361" y="1195" width="254" height="182" frameX="-15" frameY="-3" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0014" x="1361" y="1195" width="254" height="182" frameX="-15" frameY="-3" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0015" x="1361" y="1195" width="254" height="182" frameX="-15" frameY="-3" frameWidth="269" frameHeight="185"/>
+	<SubTexture name="KirbyIdle0016" x="1361" y="1195" width="254" height="182" frameX="-15" frameY="-3" frameWidth="269" frameHeight="185"/>
+</TextureAtlas>
